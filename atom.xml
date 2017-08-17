@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://w21froster.github.io/"/>
-  <updated>2017-08-17T18:47:37.478Z</updated>
+  <updated>2017-08-17T18:51:07.330Z</updated>
   <id>http://w21froster.github.io/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://w21froster.github.io/2017/08/16/New-Blog/"/>
     <id>http://w21froster.github.io/2017/08/16/New-Blog/</id>
     <published>2017-08-17T04:10:21.000Z</published>
-    <updated>2017-08-17T18:47:37.478Z</updated>
+    <updated>2017-08-17T18:51:07.330Z</updated>
     
-    <content type="html"><![CDATA[<p><figure class="figure"><img src="http://paralegalhell.com/wp-content/uploads/2011/08/new_blog_ad.jpg" width="495" height="328"></figure><br>I have been thinking about creating a blog for some time and I finally got around to it. This content is hosted on a NodeJS platform called Hexo which serves static content. (Eg. I update it by writing pseudo-code and pushing updates to Github. Speaking of Github, they allow you to host a website as a subdomain for free to do whatever you like. (As long as it is tasteful…) You can even use it for monetary gains. At this time I have chosen not to do ads.</p>
+    <content type="html"><![CDATA[<p><meta property="og:image" content="http://paralegalhell.com/wp-content/uploads/2011/08/new_blog_ad.jpg"><br><figure class="figure"><img src="http://paralegalhell.com/wp-content/uploads/2011/08/new_blog_ad.jpg" width="495" height="328"></figure><br>I have been thinking about creating a blog for some time and I finally got around to it. This content is hosted on a NodeJS platform called Hexo which serves static content. (Eg. I update it by writing pseudo-code and pushing updates to Github. Speaking of Github, they allow you to host a website as a subdomain for free to do whatever you like. (As long as it is tasteful…) You can even use it for monetary gains. At this time I have chosen not to do ads.</p>
 <p>Anyways.</p>
 <a id="more"></a>
 <p>Here is a snippet of PowerShell code.</p>
@@ -31,7 +31,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://paralegalhell.com/wp-content/uploads/2011/08/new_blog_ad.jpg&quot; width=&quot;495&quot; height=&quot;328&quot;&gt;&lt;br&gt;I have been thinking about creating a blog for some time and I finally got around to it. This content is hosted on a NodeJS platform called Hexo which serves static content. (Eg. I update it by writing pseudo-code and pushing updates to Github. Speaking of Github, they allow you to host a website as a subdomain for free to do whatever you like. (As long as it is tasteful…) You can even use it for monetary gains. At this time I have chosen not to do ads.&lt;/p&gt;
+      &lt;p&gt;&lt;meta property=&quot;og:image&quot; content=&quot;http://paralegalhell.com/wp-content/uploads/2011/08/new_blog_ad.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://paralegalhell.com/wp-content/uploads/2011/08/new_blog_ad.jpg&quot; width=&quot;495&quot; height=&quot;328&quot;&gt;&lt;br&gt;I have been thinking about creating a blog for some time and I finally got around to it. This content is hosted on a NodeJS platform called Hexo which serves static content. (Eg. I update it by writing pseudo-code and pushing updates to Github. Speaking of Github, they allow you to host a website as a subdomain for free to do whatever you like. (As long as it is tasteful…) You can even use it for monetary gains. At this time I have chosen not to do ads.&lt;/p&gt;
 &lt;p&gt;Anyways.&lt;/p&gt;
     
     </summary>
